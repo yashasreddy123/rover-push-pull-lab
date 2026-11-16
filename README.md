@@ -9,3 +9,5 @@ Firmware (C) for the Kestrel-1 rover.
 ## Team rule
 
 Never overwrite what is on GitHub: bring it down first.
+Contact the team: rover-team@example.com
+docs: add team contact line
